@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gautambhagwat
 - 👀 I’m interested in Softwer Development
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my email
 
