@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gautambhagwat
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my email
 
